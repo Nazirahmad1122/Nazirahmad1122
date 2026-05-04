@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nazir Ahmed</h1>
-<h3 align="center">I am an aspiring developer currently learning Python, C++, and the fundamentals of Artificial Intelligence. I enjoy building real-world projects like management systems and data analysis work to strengthen my problem-solving skills. My goal is to grow step by step from a beginner to an AI expert, continuously improving my coding skills and exploring new technologies. I believe in learning by doing, staying consistent, and turning ideas into practical solutions.</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br>Building Machine Learning projects such as Loan Eligibility Prediction,  Movie Recommender System.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, Data Science, and AI-based projects that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Improving model performance, advanced ML concepts, and deploying ML models in production.<br><br>🌱 I’m currently learning<br>Artificial Intelligence, Machine Learning, and improving my skills in Python, Scikit-learn, and Data Analysis.<br><br>💬 Ask me about<br>Python, Machine Learning basics, Data Science projects, and Linear Regression models.<br><br>⚡ Fun fact<br>I enjoy turning data into meaningful insights and building practical projects from scratch.<br>
 
-- 🌱 I’m currently learning *Python, Data Analysis, and improving my problem-solving skills*
 
-- 📫 How to reach me *nazirahmad7411@gmail.com*
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazir-ahmad-8a48a8301/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/happy0764198381) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nazir ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazir ahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/nazir_ahmad532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazir_ahmad532" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nazirahmad1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nazirahmad1122&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nazirahmad1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+[![](https://komarev.com/ghpvc/?username=Nazirahmad1122&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
